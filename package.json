@@ -1,0 +1,19 @@
+{
+  "name": "crud-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioHernanCabrera/crud-repository.git"
+  },
+  "author": "Mauricio Hernan Cabrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauricioHernanCabrera/crud-repository/issues"
+  },
+  "homepage": "https://github.com/MauricioHernanCabrera/crud-repository#readme"
+}
