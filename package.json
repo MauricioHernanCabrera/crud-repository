@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MauricioHernanCabrera/crud-repository/issues"
   },
-  "homepage": "https://github.com/MauricioHernanCabrera/crud-repository#readme"
+  "homepage": "https://github.com/MauricioHernanCabrera/crud-repository#readme",
+  "dependencies": {
+    "query-string": "^6.14.1"
+  }
 }

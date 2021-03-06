@@ -1,3 +1,5 @@
+const queryString = require("query-string");
+
 class CrudRepository {
   constructor({
     $axios,
