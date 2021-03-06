@@ -1,4 +1,4 @@
-const queryString = require("query-string");
+const queryString = require("querystring");
 
 class CrudRepository {
   constructor({
